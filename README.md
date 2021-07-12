@@ -17,4 +17,6 @@
 <a href="https://github.com/Yoliani/Yoliani/Neovim-lua">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yoliani&repo=Neovim-lua&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+<a href="https://github.com/Yoliani/Yoliani/Neovim-dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yoliani&repo=Neovim-dotfiles&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>

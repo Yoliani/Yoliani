@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning flutter & python
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me edgardorafaelyolianicantillo@gmail.com
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats

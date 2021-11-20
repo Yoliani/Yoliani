@@ -1,6 +1,5 @@
 <h1 align="center">Hey! I'm Yoliani <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"></h1>
 
-
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Yoliani&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
 </p>
@@ -11,8 +10,10 @@
 - 🌱 I’m currently learning Rust & Python
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me edgardorafaelyolianicantillo@gmail.com
-- 
+-
+
 ## 🔧 Technologies & Tools
+
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=0062cc)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00a7d0)
@@ -30,8 +31,9 @@
 ![PYTHON](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=python&logoColor=4479A1)
 
 **Connect with me:**
- 
+
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />][gmail]
+<br/>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -48,4 +50,5 @@
 <a href="https://github.com/Yoliani/Neovim-dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yoliani&repo=Neovim-dotfiles&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 [gmail]: edgardorafaelyolianicantillo@gmail.com

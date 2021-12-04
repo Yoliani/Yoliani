@@ -45,11 +45,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yoliani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Edgardo's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Yoliani/Tab-Neovim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yoliani&repo=Tab-Neovim&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Yoliani/Neovim-dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yoliani&repo=Neovim-dotfiles&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 [gmail]: edgardorafaelyolianicantillo@gmail.com

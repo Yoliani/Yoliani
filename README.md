@@ -4,7 +4,7 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=Yoliani&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
 </p>
 
-<img align="right" height=300px width=300px alt="Catpuccino gif" src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/catpuccino.gif" />
+<img align="right" height=300px width=300px alt="Catpuccino gif" src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/jake-the-dog.gif" />
 
 **About Me:**
 

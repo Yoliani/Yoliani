@@ -1,7 +1,7 @@
-<h1 align="center">Hey! I'm Yoliani <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"></h1>
+<!-- <h1 align="center">Hey! I'm Yoliani <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"></h1> -->
+<h1 align="center">
+<img  height=300px width=300px alt="Catpuccino gif" src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/header.svg" /></h1>
 
-<img align="center" height=300px width=300px alt="Catpuccino gif" src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/header.svg" />
-<br/>
 <p align="center">
 
   <img  src="https://github-profile-trophy.vercel.app/?username=Yoliani&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />

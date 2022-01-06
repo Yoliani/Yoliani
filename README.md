@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hey! I'm Yoliani <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"></h1> -->
 <h1 align="center">
-<img  height=500px width=500px alt="img" 
+<img  height=400px width=800px alt="img" 
 src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/img.svg" 
 /></h1>
 

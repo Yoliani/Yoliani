@@ -75,13 +75,10 @@
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
-        img {
-            width: 30px;
-          }
-			</style>
+      </style>
 			<div class="container">
-				<h1>"Hey! Im Yoliani"</h1>
-				<p>"Click to see the source"</p>
+				<h1>Hey! Im Yoliani</h1>
+				<p>Click to see the source</p>
 			</div>
 		</div>
 	</foreignObject>

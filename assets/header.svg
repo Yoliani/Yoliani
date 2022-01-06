@@ -75,9 +75,7 @@
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
-        img {
-            width: 30px;
-          }
+     
 			</style>
 			<div class="container">
 				<h1>Hey! I'm Yoliani<img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" ></h1>

@@ -1,7 +1,8 @@
 <!-- <h1 align="center">Hey! I'm Yoliani <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"></h1> -->
-
+<h1 align="center">
 <img  height=300px width=300px alt="img" 
-src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/img.svg" />
+src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/img.svg" 
+/></h1>
 
 <p align="center">
 

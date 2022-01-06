@@ -1,10 +1,13 @@
 <h1 align="center">Hey! I'm Yoliani <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"></h1>
+<style>
+.rounded { border-radius: 8px; }
+</style>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Yoliani&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
 </p>
 
-<img align="right" height=300px width=300px alt="Catpuccino gif" src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/jake-the-dog.gif" />
+<img style ="rounded" align="right" height=300px width=300px alt="Catpuccino gif" src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/jake-the-dog.gif" />
 
 **About Me:**
 

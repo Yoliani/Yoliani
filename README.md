@@ -18,7 +18,7 @@ src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/jake-the-dog.
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Rust & Python
 - 💞️ I’m looking to collaborate on google
-- 📫 How to reach me edgardorafaelyolianicantillo@gmail.com
+- 📫 How to reach me edrayoca@gmail.com
 
 &#x200B;
 

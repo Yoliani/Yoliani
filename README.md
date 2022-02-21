@@ -55,4 +55,4 @@ src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/jake-the-dog.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoliani&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-[gmail]: mailto:edgardorafaelyolianicantillo@gmail.com
+[gmail]: mailto:edrayoca@gmail.com

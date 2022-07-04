@@ -10,6 +10,10 @@ src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/img.svg"
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoliani&layout=compact&hide_title=true&langs_count=6&bg_color=22272E&text_color=909DAB&hide_border=true" align = "center"/>
 </p>
 
+<img style ="rounded" align="right" height=300px width=300px alt="jake gif" 
+src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/jake-the-dog.gif" 
+/>
+
 **About Me:**
 
 - 👀 I’m interested in programming
@@ -53,14 +57,5 @@ src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/img.svg"
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />][gmail]
 
 &#x200B;
-
-**&#x1f4c8; GitHub Stats**
-<br/>
-<a href="https://github.com/Yoliani/Yoliani">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yoliani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Edgardo's GitHub Stats" />
-</a>
-<a href="https://github.com/Yoliani/Yoliani">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoliani&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 
 [gmail]: mailto:edrayoca@gmail.com

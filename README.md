@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/jake-the-dog.
 
 **🔧 Technologies & Tools**
 
-![](https://img.shields.io/static/v1?label=OS&message=CentOS&style=flat&logo=Arch&labelColor=22272E&color=316dca)
+![](https://img.shields.io/static/v1?label=OS&message=Arch&style=flat&logo=Arch&labelColor=22272E&color=316dca)
 ![](https://img.shields.io/static/v1?label=OS&message=Ubuntu&style=flat&logo=Ubuntu&labelColor=22272E&color=316dca)
 ![](https://img.shields.io/static/v1?label=Editor&message=Neovim&style=flat&logo=neovim&labelColor=22272E&color=316dca)
 ![](https://img.shields.io/static/v1?label=Editor&message=Vim&style=flat&logo=neovim&labelColor=22272E&color=316dca)

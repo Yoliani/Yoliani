@@ -6,12 +6,9 @@ src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/img.svg"
 
 <p align="center">
 
-  <img  src="https://github-profile-trophy.vercel.app/?username=Yoliani&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=Yoliani&show_icons=true&count_private=true&hide_title=true&hide=issues&line_height=24&bg_color=22272E&text_color=909DAB&hide_border=true" align = "center"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoliani&layout=compact&hide_title=true&langs_count=6&bg_color=22272E&text_color=909DAB&hide_border=true" align = "center"/>
 </p>
-
-<img style ="rounded" align="right" height=300px width=300px alt="jake gif" 
-src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/jake-the-dog.gif" 
-/>
 
 **About Me:**
 

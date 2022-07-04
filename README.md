@@ -24,10 +24,10 @@ src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/jake-the-dog.
 
 **🔧 Technologies & Tools**
 
-![](https://img.shields.io/static/v1?label=OS&message=Arch&style=flat&logo=Arch&labelColor=22272E&color=316dca)
+![](https://img.shields.io/static/v1?label=OS&message=Arch&style=flat&logo=arch&labelColor=22272E&color=316dca)
 ![](https://img.shields.io/static/v1?label=OS&message=Ubuntu&style=flat&logo=Ubuntu&labelColor=22272E&color=316dca)
 ![](https://img.shields.io/static/v1?label=Editor&message=Neovim&style=flat&logo=neovim&labelColor=22272E&color=316dca)
-![](https://img.shields.io/static/v1?label=Editor&message=Vim&style=flat&logo=neovim&labelColor=22272E&color=316dca)
+![](https://img.shields.io/static/v1?label=Editor&message=Vim&style=flat&logo=vim&labelColor=22272E&color=316dca)
 ![](https://img.shields.io/static/v1?label=Editor&message=VSCode&style=flat&logo=visual-studio-code&labelColor=22272E&color=316dca)
 ![](https://img.shields.io/static/v1?label=Language&message=Javascript&style=flat&logo=javascript&labelColor=22272E&color=316dca)
 ![](https://img.shields.io/static/v1?label=Language&message=Typescript&style=flat&logo=typescript&labelColor=22272E&color=316dca)
@@ -48,7 +48,7 @@ src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/jake-the-dog.
 ![](https://img.shields.io/static/v1?label=Tool&message=Vercel&style=flat&logo=vercel&labelColor=22272E&color=316dca)
 ![](https://img.shields.io/static/v1?label=Tool&message=Git&style=flat&logo=vercel&labelColor=22272E&color=316dca)
 ![](https://img.shields.io/static/v1?label=Tool&message=Github&style=flat&logo=vercel&labelColor=22272E&color=316dca)
-![](https://img.shields.io/static/v1?label=Tool&message=Bash&style=flat&logo=vercel&labelColor=22272E&color=316dca)
+![](https://img.shields.io/static/v1?label=Language&message=Bash&style=flat&logo=bash&labelColor=22272E&color=316dca)
 
 
 **Connect with me:**

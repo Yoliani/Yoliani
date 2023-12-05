@@ -16,9 +16,6 @@ src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/jake-the-dog.
 
 **About Me:**
 
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning React Js, Next Js and Rails 
-- 💞️ I’m looking to collaborate on google
 - 📫 How to reach me edrayoca@gmail.com
 
 &#x200B;

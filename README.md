@@ -16,7 +16,7 @@ src="https://raw.githubusercontent.com/Yoliani/Yoliani/main/assets/jake-the-dog.
 
 **About Me:**
 
-- 📫 How to reach me edrayoca@gmail.com
+- 📫 How to reach me edgardo@yoliani.dev
 
 &#x200B;
 
